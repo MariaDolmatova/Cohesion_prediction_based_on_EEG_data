@@ -1,0 +1,1288 @@
+2025-02-04 21:43:10,021 - __init__.py - wrapper - DEBUG - matplotlib data path: /Users/xli/Desktop/project python/Cohesion-Prediction-Based-on-EEG-data/venv/lib/python3.13/site-packages/matplotlib/mpl-data
+2025-02-04 21:43:10,027 - __init__.py - wrapper - DEBUG - CONFIGDIR=/Users/xli/.matplotlib
+2025-02-04 21:43:10,029 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-04 21:43:10,029 - __init__.py - <module> - DEBUG - platform is darwin
+2025-02-04 21:43:10,074 - __init__.py - wrapper - DEBUG - CACHEDIR=/Users/xli/.matplotlib
+2025-02-04 21:43:10,077 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from /Users/xli/.matplotlib/fontlist-v390.json
+2025-02-04 21:46:22,348 - __init__.py - wrapper - DEBUG - matplotlib data path: /Users/xli/Desktop/project python/Cohesion-Prediction-Based-on-EEG-data/venv/lib/python3.13/site-packages/matplotlib/mpl-data
+2025-02-04 21:46:22,351 - __init__.py - wrapper - DEBUG - CONFIGDIR=/Users/xli/.matplotlib
+2025-02-04 21:46:22,352 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-04 21:46:22,352 - __init__.py - <module> - DEBUG - platform is darwin
+2025-02-04 21:46:22,385 - __init__.py - wrapper - DEBUG - CACHEDIR=/Users/xli/.matplotlib
+2025-02-04 21:46:22,387 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from /Users/xli/.matplotlib/fontlist-v390.json
+2025-02-04 21:49:31,958 - __init__.py - wrapper - DEBUG - matplotlib data path: /Users/xli/Desktop/project python/Cohesion-Prediction-Based-on-EEG-data/venv/lib/python3.13/site-packages/matplotlib/mpl-data
+2025-02-04 21:49:31,962 - __init__.py - wrapper - DEBUG - CONFIGDIR=/Users/xli/.matplotlib
+2025-02-04 21:49:31,963 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-04 21:49:31,963 - __init__.py - <module> - DEBUG - platform is darwin
+2025-02-04 21:49:32,002 - __init__.py - wrapper - DEBUG - CACHEDIR=/Users/xli/.matplotlib
+2025-02-04 21:49:32,004 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from /Users/xli/.matplotlib/fontlist-v390.json
+2025-02-04 21:51:06,581 - __init__.py - wrapper - DEBUG - matplotlib data path: /Users/xli/Desktop/project python/Cohesion-Prediction-Based-on-EEG-data/venv/lib/python3.13/site-packages/matplotlib/mpl-data
+2025-02-04 21:51:06,584 - __init__.py - wrapper - DEBUG - CONFIGDIR=/Users/xli/.matplotlib
+2025-02-04 21:51:06,585 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-04 21:51:06,585 - __init__.py - <module> - DEBUG - platform is darwin
+2025-02-04 21:51:06,619 - __init__.py - wrapper - DEBUG - CACHEDIR=/Users/xli/.matplotlib
+2025-02-04 21:51:06,621 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from /Users/xli/.matplotlib/fontlist-v390.json
+2025-02-04 21:52:29,751 - __init__.py - wrapper - DEBUG - matplotlib data path: /Users/xli/Desktop/project python/Cohesion-Prediction-Based-on-EEG-data/venv/lib/python3.13/site-packages/matplotlib/mpl-data
+2025-02-04 21:52:29,759 - __init__.py - wrapper - DEBUG - CONFIGDIR=/Users/xli/.matplotlib
+2025-02-04 21:52:29,761 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-04 21:52:29,761 - __init__.py - <module> - DEBUG - platform is darwin
+2025-02-04 21:52:29,803 - __init__.py - wrapper - DEBUG - CACHEDIR=/Users/xli/.matplotlib
+2025-02-04 21:52:29,805 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from /Users/xli/.matplotlib/fontlist-v390.json
+2025-02-08 17:51:46,088 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-08 17:51:46,260 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-08 17:51:46,263 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-08 17:51:46,263 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-08 17:51:46,410 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-08 17:51:46,439 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-08 18:10:02,998 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-08 18:10:03,010 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-08 18:10:03,013 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-08 18:10:03,014 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-08 18:10:03,157 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-08 18:10:03,168 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-08 18:18:18,695 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-08 18:18:18,704 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-08 18:18:18,708 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-08 18:18:18,708 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-08 18:18:18,819 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-08 18:18:18,826 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 00:14:35,610 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 00:14:35,741 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:14:35,744 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 00:14:35,744 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 00:14:35,866 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:14:35,889 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 00:19:01,841 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 00:19:01,852 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:19:01,855 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 00:19:01,855 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 00:19:01,969 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:19:01,975 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 00:19:30,151 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 00:19:30,158 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:19:30,161 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 00:19:30,162 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 00:19:30,271 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:19:30,276 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 00:19:31,031 - labels_preparation.py - process_labels - INFO - Labels processed as     Labels
+0        0
+1        0
+2        1
+3        0
+4        1
+5        1
+6        1
+7        1
+8        1
+9        0
+10       0
+11       1
+12       1
+13       0
+14       0
+15       1
+16       0
+17       1
+18       1
+19       0
+20       1
+21       0
+22       0
+23       1
+24       1
+25       0
+26       1
+27       1
+28       1
+29       0
+30       0
+31       1
+32       1
+33       0
+34       1
+35       1
+36       1
+37       1
+38       1
+39       1
+40       0
+41       0
+42       1 and     pair    Labels  Binary Labels
+0      1  4.375000              0
+1      2  4.000000              0
+2      3  5.375000              1
+3      4  4.125000              0
+4      5  6.000000              1
+5      6  5.375000              1
+6      7  5.125000              1
+7      8  5.000000              1
+8      9  4.750000              1
+9     10  4.500000              0
+10    11  3.625000              0
+11    12  4.625000              1
+12    13  4.875000              1
+13    14  4.375000              0
+14    15  4.375000              0
+15    16  5.010294              1
+16    17  4.125000              0
+17    18  4.875000              1
+18    19  5.500000              1
+19    20  3.875000              0
+20    21  5.375000              1
+21    22  4.000000              0
+22    23  4.250000              0
+23    24  5.250000              1
+24    25  5.500000              1
+25    26  4.250000              0
+26    27  5.500000              1
+27    28  6.000000              1
+28    29  5.000000              1
+29    30  4.500000              0
+30    31  3.500000              0
+31    32  6.000000              1
+32    33  5.000000              1
+33    34  3.875000              0
+34    35  5.250000              1
+35    36  4.625000              1
+36    37  5.125000              1
+37    38  4.875000              1
+38    39  4.750000              1
+39    40  4.750000              1
+40    41  4.500000              0
+41    42  4.500000              0
+42    43  4.875000              1
+2025-02-09 00:19:36,836 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 00:19:36,965 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 00:19:37,108 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 00:19:37,587 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 00:19:39,170 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 00:20:21,152 - svm.py - train_svm - INFO - Best Parameters:
+2025-02-09 00:30:18,212 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 00:30:18,225 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:30:18,229 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 00:30:18,230 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 00:30:18,340 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 00:30:18,346 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 00:30:19,375 - labels_preparation.py - process_labels - INFO - Labels processed as     Labels
+0        0
+1        0
+2        1
+3        0
+4        1
+5        1
+6        1
+7        1
+8        1
+9        0
+10       0
+11       1
+12       1
+13       0
+14       0
+15       1
+16       0
+17       1
+18       1
+19       0
+20       1
+21       0
+22       0
+23       1
+24       1
+25       0
+26       1
+27       1
+28       1
+29       0
+30       0
+31       1
+32       1
+33       0
+34       1
+35       1
+36       1
+37       1
+38       1
+39       1
+40       0
+41       0
+42       1 and     pair    Labels  Binary Labels
+0      1  4.375000              0
+1      2  4.000000              0
+2      3  5.375000              1
+3      4  4.125000              0
+4      5  6.000000              1
+5      6  5.375000              1
+6      7  5.125000              1
+7      8  5.000000              1
+8      9  4.750000              1
+9     10  4.500000              0
+10    11  3.625000              0
+11    12  4.625000              1
+12    13  4.875000              1
+13    14  4.375000              0
+14    15  4.375000              0
+15    16  5.010294              1
+16    17  4.125000              0
+17    18  4.875000              1
+18    19  5.500000              1
+19    20  3.875000              0
+20    21  5.375000              1
+21    22  4.000000              0
+22    23  4.250000              0
+23    24  5.250000              1
+24    25  5.500000              1
+25    26  4.250000              0
+26    27  5.500000              1
+27    28  6.000000              1
+28    29  5.000000              1
+29    30  4.500000              0
+30    31  3.500000              0
+31    32  6.000000              1
+32    33  5.000000              1
+33    34  3.875000              0
+34    35  5.250000              1
+35    36  4.625000              1
+36    37  5.125000              1
+37    38  4.875000              1
+38    39  4.750000              1
+39    40  4.750000              1
+40    41  4.500000              0
+41    42  4.500000              0
+42    43  4.875000              1
+2025-02-09 00:30:27,437 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 00:30:27,576 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 00:30:27,710 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 00:30:28,543 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 00:30:30,107 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 00:31:08,524 - svm.py - train_svm - INFO - Best Parameters:
+2025-02-09 00:31:09,588 - pyplot.py - switch_backend - DEBUG - Loaded backend tkagg version 8.6.
+2025-02-09 03:59:10,841 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 03:59:10,964 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 03:59:10,967 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 03:59:10,968 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 03:59:11,124 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 03:59:11,171 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 03:59:15,000 - labels_preparation.py - process_labels - INFO - Labels processed as     Labels
+0        0
+1        0
+2        1
+3        0
+4        1
+5        1
+6        1
+7        1
+8        1
+9        0
+10       0
+11       1
+12       1
+13       0
+14       0
+15       1
+16       0
+17       1
+18       1
+19       0
+20       1
+21       0
+22       0
+23       1
+24       1
+25       0
+26       1
+27       1
+28       1
+29       0
+30       0
+31       1
+32       1
+33       0
+34       1
+35       1
+36       1
+37       1
+38       1
+39       1
+40       0
+41       0
+42       1 and     pair    Labels  Binary Labels
+0      1  4.375000              0
+1      2  4.000000              0
+2      3  5.375000              1
+3      4  4.125000              0
+4      5  6.000000              1
+5      6  5.375000              1
+6      7  5.125000              1
+7      8  5.000000              1
+8      9  4.750000              1
+9     10  4.500000              0
+10    11  3.625000              0
+11    12  4.625000              1
+12    13  4.875000              1
+13    14  4.375000              0
+14    15  4.375000              0
+15    16  5.010294              1
+16    17  4.125000              0
+17    18  4.875000              1
+18    19  5.500000              1
+19    20  3.875000              0
+20    21  5.375000              1
+21    22  4.000000              0
+22    23  4.250000              0
+23    24  5.250000              1
+24    25  5.500000              1
+25    26  4.250000              0
+26    27  5.500000              1
+27    28  6.000000              1
+28    29  5.000000              1
+29    30  4.500000              0
+30    31  3.500000              0
+31    32  6.000000              1
+32    33  5.000000              1
+33    34  3.875000              0
+34    35  5.250000              1
+35    36  4.625000              1
+36    37  5.125000              1
+37    38  4.875000              1
+38    39  4.750000              1
+39    40  4.750000              1
+40    41  4.500000              0
+41    42  4.500000              0
+42    43  4.875000              1
+2025-02-09 03:59:34,670 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 03:59:34,785 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 03:59:34,953 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 03:59:35,549 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 03:59:37,130 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 04:01:04,495 - svm.py - train_svm - INFO - Best Parameters:
+2025-02-09 04:01:05,160 - pyplot.py - switch_backend - DEBUG - Loaded backend tkagg version 8.6.
+2025-02-09 14:34:10,549 - svm.py - train_svm - INFO - Best Parameters:
+2025-02-09 14:39:03,815 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 14:39:03,817 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 14:42:25,696 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 14:42:26,108 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 14:42:26,112 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 14:42:26,113 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 14:42:26,470 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 14:42:26,479 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 14:43:36,349 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 14:43:36,349 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 14:43:36,386 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 14:43:54,975 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 14:43:55,083 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 14:43:55,217 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 14:43:55,805 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 14:43:57,950 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 14:45:21,109 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 14:45:21,110 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 14:45:21,310 - pyplot.py - switch_backend - DEBUG - Loaded backend tkagg version 8.6.
+2025-02-09 14:47:04,781 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 14:47:04,798 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 14:47:04,802 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 14:47:04,803 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 14:47:05,035 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 14:47:05,043 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 14:48:12,906 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 14:48:12,907 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 14:48:12,929 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 14:48:35,425 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 14:48:35,542 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 14:48:35,703 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 14:48:36,766 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 14:48:39,296 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 14:50:02,143 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 14:50:02,144 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 14:50:02,309 - pyplot.py - switch_backend - DEBUG - Loaded backend tkagg version 8.6.
+2025-02-09 15:31:34,334 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 15:31:34,344 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:31:34,348 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 15:31:34,349 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 15:31:34,470 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:31:34,475 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 15:32:23,731 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:32:23,731 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:32:23,752 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 15:32:25,807 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-09 15:32:32,340 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-09 15:32:32,399 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 15:32:32,548 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 15:32:32,657 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 15:32:33,251 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 15:32:34,625 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 15:33:36,866 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:33:36,867 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:33:47,440 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-09 15:34:08,615 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:34:08,616 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:34:08,616 - svm.py - multi_datasets - INFO - Check the data/reshaped_correlations.csv: too many values to unpack (expected 3)
+2025-02-09 15:34:28,507 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:34:28,508 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:34:28,508 - svm.py - multi_datasets - INFO - Check the data/reshaped_correlations10.csv: too many values to unpack (expected 3)
+2025-02-09 15:35:24,340 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:35:24,340 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:35:24,341 - svm.py - multi_datasets - INFO - Check the data/reshaped_correlations120.csv: too many values to unpack (expected 3)
+2025-02-09 15:36:04,338 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:36:04,338 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-09 15:36:04,339 - svm.py - multi_datasets - INFO - Check the data/reshaped_correlations5.csv: too many values to unpack (expected 3)
+2025-02-09 15:37:07,221 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:37:07,221 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:37:07,222 - svm.py - multi_datasets - INFO - Check the data/reshaped_correlations60.csv: too many values to unpack (expected 3)
+2025-02-09 15:41:00,886 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 15:41:01,116 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:41:01,119 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 15:41:01,119 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 15:41:01,295 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:41:01,322 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 15:41:04,509 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 15:41:06,705 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-09 15:41:18,178 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-09 15:41:18,266 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 15:41:18,444 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 15:41:18,662 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 15:41:19,392 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 15:41:20,566 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 15:41:57,040 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 15:41:57,043 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:41:57,043 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:41:58,222 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-09 15:42:21,136 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:42:21,143 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:42:21,146 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:43:03,843 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:43:03,847 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:43:03,849 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:43:57,066 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 15:43:57,067 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:43:57,068 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:44:30,184 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-09 15:44:30,185 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:44:30,185 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-09 15:45:01,064 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:45:01,067 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:45:01,067 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:45:03,483 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-09 15:45:03,532 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-09 15:45:03,533 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-09 15:45:14,065 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-09 15:45:14,065 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-09 15:45:33,550 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-09 15:45:33,550 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-09 15:51:51,988 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 15:51:51,999 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:51:52,001 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 15:51:52,001 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 15:51:52,119 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:51:52,124 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 15:51:53,117 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 15:51:54,658 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-09 15:51:59,177 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-09 15:51:59,233 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 15:51:59,293 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 15:51:59,385 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 15:51:59,815 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 15:52:00,985 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 15:53:12,523 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 15:53:12,524 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:53:12,525 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:53:19,260 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-09 15:53:40,399 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:53:40,401 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:53:40,401 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:54:03,275 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:54:03,275 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:54:03,276 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:54:39,961 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 15:54:39,961 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:54:39,962 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 15:55:15,000 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-09 15:55:15,001 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 15:55:15,001 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-09 15:55:58,653 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 15:55:58,654 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 15:55:58,654 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 15:55:59,411 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-09 15:55:59,452 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-09 15:55:59,452 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-09 15:55:59,762 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-09 15:55:59,763 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-09 15:55:59,999 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 15:56:09,412 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 15:56:19,415 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 15:56:29,429 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 15:59:32,830 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 15:59:32,838 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:59:32,840 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 15:59:32,841 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 15:59:32,950 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 15:59:32,955 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 15:59:33,848 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 15:59:35,116 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-09 16:00:02,398 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-09 16:00:02,405 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-09 16:00:02,410 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-09 16:00:02,411 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-09 16:00:02,515 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-09 16:00:02,520 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-09 16:00:03,404 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-09 16:00:04,601 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-09 16:00:10,209 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-09 16:00:10,240 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-09 16:00:10,300 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-09 16:00:10,400 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-09 16:00:10,844 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-09 16:00:11,830 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-09 16:01:10,368 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 16:01:10,368 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 16:01:10,369 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 16:01:20,289 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-09 16:01:39,754 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 16:01:39,755 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 16:01:39,756 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 16:01:58,918 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 16:01:58,919 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 16:01:58,919 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 16:02:35,620 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-09 16:02:35,621 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 16:02:35,621 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-09 16:03:20,575 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-09 16:03:20,577 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-09 16:03:20,578 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-09 16:03:51,075 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-09 16:03:51,077 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-09 16:03:51,078 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-09 16:04:00,514 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-09 16:04:00,546 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-09 16:04:00,547 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-09 16:04:00,837 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-09 16:04:00,837 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-09 16:04:10,524 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 16:04:10,775 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 16:04:20,541 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 16:04:20,787 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-09 16:04:21,689 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-09 16:04:29,191 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 30!
+2025-02-09 16:04:29,503 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-09 16:04:29,506 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-09 16:04:30,956 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-09 16:04:40,554 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-09 16:04:40,555 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-09 16:04:41,493 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-09 16:04:41,756 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-09 16:04:41,765 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-09 16:04:43,026 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-09 16:04:43,380 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-09 16:04:43,409 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-09 16:04:44,746 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-09 16:04:45,185 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-09 16:04:45,185 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7125
+2025-02-09 16:04:45,186 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4639
+2025-02-09 16:04:45,187 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5781
+2025-02-11 02:03:44,657 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:03:44,675 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:05:19,244 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:05:19,265 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:34:56,850 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:34:56,869 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:46:54,177 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:46:54,211 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:49:12,831 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:49:12,858 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:50:01,808 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:50:01,831 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:51:07,102 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:51:07,128 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:51:07,188 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-11 02:51:07,190 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-11 02:51:07,239 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-11 02:57:16,893 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:57:16,927 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 02:57:16,989 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-11 02:57:16,995 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-11 02:57:17,050 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-11 03:00:35,471 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 03:00:35,501 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 03:00:35,521 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-11 03:00:35,557 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-11 03:00:35,598 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-11 03:02:06,364 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 03:02:06,382 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-11 03:02:06,396 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-11 03:02:06,398 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-11 03:02:06,417 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-12 01:40:53,150 - svm.py - multi_datasets - INFO - Check the test_X1.csv: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=2.
+2025-02-12 01:40:53,229 - svm.py - multi_datasets - INFO - Check the test_X2.csv: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=2.
+2025-02-12 01:50:22,349 - svm.py - multi_datasets - INFO - Check the test_X1.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-12 01:50:22,438 - svm.py - multi_datasets - INFO - Check the test_X2.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-12 01:54:54,282 - svm.py - multi_datasets - INFO - Check the test_X1.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-12 01:54:54,343 - svm.py - multi_datasets - INFO - Check the test_X2.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-12 01:58:13,594 - svm.py - multi_datasets - INFO - Check the test_X1.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-12 01:58:13,620 - svm.py - multi_datasets - INFO - Check the test_X2.csv: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-14 00:54:03,477 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-14 00:54:03,673 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-14 00:54:03,678 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-14 00:54:03,679 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-14 00:54:03,894 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-14 00:54:03,930 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-14 00:54:07,760 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-14 00:54:11,267 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-14 00:54:20,383 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-14 00:54:20,515 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-14 00:54:20,628 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-14 00:54:20,787 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-14 00:54:21,410 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-14 00:54:23,945 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-14 00:54:24,164 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-14 00:54:24,588 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:55:26,773 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-14 00:55:26,777 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 00:55:26,777 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-14 00:55:35,447 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-14 00:55:35,448 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 00:55:35,454 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations.csv
+2025-02-14 00:55:35,530 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:56:06,331 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 00:56:06,332 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 00:56:06,333 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 00:56:06,336 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations10.csv
+2025-02-14 00:56:06,425 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:56:34,941 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 00:56:34,943 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 00:56:34,944 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 00:56:34,948 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-14 00:56:35,287 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:57:31,678 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-14 00:57:31,679 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 00:57:31,680 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-14 00:57:31,683 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations5.csv
+2025-02-14 00:57:31,753 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:58:00,218 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-14 00:58:00,221 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 00:58:00,222 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-14 00:58:00,225 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations60.csv
+2025-02-14 00:58:00,398 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 00:58:39,976 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 00:58:39,979 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 00:58:39,979 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 00:58:45,693 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-14 00:58:45,780 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-14 00:58:45,785 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-14 00:58:46,526 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-14 00:58:46,527 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-14 00:58:55,704 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 00:58:56,169 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 00:59:05,712 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 00:59:15,720 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 00:59:16,229 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-14 00:59:26,289 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 30!
+2025-02-14 00:59:26,810 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 00:59:26,815 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-14 00:59:30,039 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-14 00:59:31,068 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 00:59:31,190 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-14 00:59:34,311 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 00:59:35,002 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 00:59:35,018 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-14 00:59:37,413 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 00:59:40,868 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 00:59:40,870 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-14 00:59:41,873 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 00:59:42,646 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 00:59:42,803 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7125
+2025-02-14 00:59:42,804 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4639
+2025-02-14 00:59:42,806 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5781
+2025-02-14 01:01:14,161 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-14 01:01:14,217 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-14 01:01:14,243 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 01:01:14,302 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 01:01:14,322 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_missing_col.csv
+2025-02-14 01:01:14,420 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 01:01:14,575 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 01:01:14,581 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-14 01:01:14,625 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 01:01:14,629 - svm.py - multi_datasets - INFO - Skipping dataset test_X1.csv due to error: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-14 01:01:14,642 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X2.csv
+2025-02-14 01:01:14,709 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 01:01:14,714 - svm.py - multi_datasets - INFO - Skipping dataset test_X2.csv due to error: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-14 01:01:14,983 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 01:01:14,998 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:15:58,366 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-14 10:15:58,644 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-14 10:15:58,648 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-14 10:15:58,648 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-14 10:15:58,881 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-14 10:15:58,924 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-14 10:16:04,233 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-14 10:16:06,591 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-14 10:19:40,596 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-14 10:19:40,660 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-14 10:19:40,722 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-14 10:19:40,811 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-14 10:19:41,124 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-14 10:19:42,303 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-14 10:19:42,508 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-14 10:19:42,822 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:20:16,906 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-14 10:20:16,907 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 10:20:16,907 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-14 10:20:30,623 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-14 10:20:30,624 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 10:20:30,627 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations.csv
+2025-02-14 10:20:30,657 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:21:35,603 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 10:21:35,604 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 10:21:35,604 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 10:21:35,607 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations10.csv
+2025-02-14 10:21:35,682 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:23:00,891 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 10:23:00,892 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 10:23:00,892 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 10:23:00,894 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-14 10:23:01,105 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:25:14,373 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-14 10:25:14,375 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 10:25:14,375 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-14 10:25:14,379 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations5.csv
+2025-02-14 10:25:14,431 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:26:30,632 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-14 10:26:30,635 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-14 10:26:30,635 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-14 10:26:30,637 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations60.csv
+2025-02-14 10:26:30,803 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:28:14,109 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-14 10:28:14,117 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-14 10:28:14,128 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-14 10:28:26,534 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-14 10:28:26,569 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-14 10:28:26,569 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-14 10:28:27,250 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-14 10:28:27,250 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-14 10:28:36,539 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 10:28:46,555 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 10:28:47,021 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 10:28:47,537 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-14 10:29:00,758 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-14 10:29:24,979 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 30!
+2025-02-14 10:29:26,631 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 10:29:26,635 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-14 10:29:38,690 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-14 10:29:46,676 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 10:29:46,752 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-14 10:30:14,796 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 10:30:17,706 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 10:30:18,804 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-14 10:30:28,088 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 10:30:36,696 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 10:30:36,696 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-14 10:30:39,407 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-14 10:30:39,831 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-14 10:30:39,832 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7125
+2025-02-14 10:30:39,832 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4639
+2025-02-14 10:30:39,832 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5781
+2025-02-14 10:41:02,777 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-14 10:41:02,797 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-14 10:41:02,816 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-14 10:41:02,818 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-14 10:41:02,838 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-14 10:42:32,993 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-14 10:42:33,033 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-14 10:42:33,040 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 10:42:33,086 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:42:33,102 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 10:42:33,105 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-14 10:42:33,132 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:42:33,139 - svm.py - multi_datasets - INFO - Skipping dataset test_X1.csv due to error: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-14 10:42:33,144 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X2.csv
+2025-02-14 10:42:33,188 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:42:33,191 - svm.py - multi_datasets - INFO - Skipping dataset test_X2.csv due to error: n_splits=5 cannot be greater than the number of members in each class.
+2025-02-14 10:42:33,333 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 10:42:33,344 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 10:54:05,798 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-14 10:54:05,819 - svm.py - train_svm - ERROR - Not enough samples in each class: Counter({np.int64(0): 2, np.int64(1): 2})
+2025-02-14 10:54:05,827 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 10:54:05,842 - svm.py - train_svm - ERROR - Not enough samples in each class: Counter({np.int64(0): 3, np.int64(1): 2})
+2025-02-14 10:54:05,876 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 10:54:05,881 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-14 10:54:05,929 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:39:49,536 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-14 16:39:49,605 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-14 16:39:49,616 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 16:39:49,642 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:39:49,690 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 16:39:49,706 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-14 16:39:49,871 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:43:45,580 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-14 16:43:45,613 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-14 16:43:45,623 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 16:43:45,642 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:43:45,675 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-14 16:43:45,679 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-14 16:43:45,739 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:44:03,994 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=10, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-14 16:44:03,995 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 10, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-14 16:44:03,995 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
+2025-02-14 16:44:04,000 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X2.csv
+2025-02-14 16:44:04,067 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:44:38,914 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, kernel='poly',
+                     probability=True))])
+2025-02-14 16:44:38,915 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 'scale', 'svc__kernel': 'poly'}
+2025-02-14 16:44:38,916 - svm.py - train_svm - INFO - Best F1 Score: 0.5999999999999999
+2025-02-14 16:44:38,961 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-14 16:44:39,016 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-14 16:45:13,713 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-14 16:45:13,715 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-14 16:45:13,715 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
+2025-02-15 16:02:55,075 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-15 16:02:58,629 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-15 16:03:04,885 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:03:04,887 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-15 16:03:06,336 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-15 16:03:06,602 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:03:06,607 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-15 16:03:09,637 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:03:09,645 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-15 16:03:11,700 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 37!
+2025-02-15 16:03:14,884 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:03:14,885 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-15 16:03:17,097 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 48!
+2025-02-15 16:03:17,365 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:03:17,365 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7337
+2025-02-15 16:03:17,366 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.5306
+2025-02-15 16:03:17,366 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.3893
+2025-02-15 16:15:43,810 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-15 16:16:01,148 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:16:01,158 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-15 16:16:05,446 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-15 16:16:05,734 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:16:05,735 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-15 16:16:10,477 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:16:10,477 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-15 16:16:12,504 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 26!
+2025-02-15 16:16:21,186 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:16:21,207 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-15 16:16:33,769 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 39!
+2025-02-15 16:16:41,182 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 16:16:41,184 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7901
+2025-02-15 16:16:41,185 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.5528
+2025-02-15 16:16:41,185 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5300
+2025-02-15 16:16:42,233 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/missing_config.ini
+2025-02-15 23:17:32,634 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-15 23:17:43,007 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 45!
+2025-02-15 23:17:49,630 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:17:49,631 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-15 23:17:52,622 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 32!
+2025-02-15 23:17:59,653 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:17:59,654 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-15 23:18:00,994 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-15 23:18:09,652 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:18:09,653 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-15 23:18:11,147 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 26!
+2025-02-15 23:18:19,685 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:18:19,687 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-15 23:18:21,401 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-15 23:18:29,683 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:18:29,684 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7890
+2025-02-15 23:18:29,686 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.5361
+2025-02-15 23:18:29,687 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5756
+2025-02-15 23:18:30,871 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/missing_config.ini
+2025-02-15 23:18:32,135 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/config.ini
+2025-02-15 23:20:33,764 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-15 23:20:40,575 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 46!
+2025-02-15 23:20:49,907 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:20:49,908 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-15 23:20:51,534 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 28!
+2025-02-15 23:20:59,898 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:20:59,899 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-15 23:21:09,925 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:21:09,928 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-15 23:21:11,622 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 28!
+2025-02-15 23:21:19,935 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:21:19,936 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-15 23:21:21,515 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 24!
+2025-02-15 23:21:29,931 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-15 23:21:29,932 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.8858
+2025-02-15 23:21:29,933 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4389
+2025-02-15 23:21:29,933 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.3212
+2025-02-15 23:21:31,518 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/missing_config.ini
+2025-02-15 23:21:32,662 - cnn.py - fold_cross_validation_120dataset - ERROR - Missing [CNN] section in config file.
+2025-02-15 23:22:25,286 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-15 23:22:25,320 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-15 23:22:25,356 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-15 23:22:25,360 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-15 23:22:25,398 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-15 23:23:05,443 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-15 23:23:05,460 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-15 23:23:05,464 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-15 23:23:05,464 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-15 23:23:05,686 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-15 23:23:05,692 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-15 23:23:08,274 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-15 23:23:11,066 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-15 23:23:25,113 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-15 23:23:25,303 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-15 23:23:25,406 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-15 23:23:25,551 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-15 23:23:26,362 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-15 23:23:28,026 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-15 23:23:28,042 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-15 23:23:28,411 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:24:46,766 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-15 23:24:46,768 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-15 23:24:46,769 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-15 23:24:55,304 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-15 23:24:55,305 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-15 23:24:55,308 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations.csv
+2025-02-15 23:24:55,368 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:25:55,846 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-15 23:25:55,848 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-15 23:25:55,848 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-15 23:25:55,851 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations10.csv
+2025-02-15 23:25:55,933 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:27:00,338 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-15 23:27:00,339 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-15 23:27:00,340 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-15 23:27:00,344 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-15 23:27:00,662 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:29:04,222 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-15 23:29:04,223 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-15 23:29:04,224 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-15 23:29:04,228 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations5.csv
+2025-02-15 23:29:04,322 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:29:46,067 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-15 23:29:46,068 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-15 23:29:46,069 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-15 23:29:46,073 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations60.csv
+2025-02-15 23:29:46,236 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:30:49,458 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-15 23:30:49,459 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-15 23:30:49,459 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-15 23:30:51,070 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-15 23:30:51,099 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-15 23:30:51,099 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-15 23:30:51,444 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-15 23:30:51,444 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-15 23:31:01,084 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-15 23:31:11,096 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-15 23:31:21,118 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-15 23:33:07,399 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-15 23:33:07,409 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-15 23:33:07,411 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-15 23:33:07,412 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-15 23:33:07,545 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-15 23:33:07,550 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-15 23:33:08,658 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-15 23:33:10,091 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-15 23:33:21,307 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-15 23:33:21,358 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-15 23:33:21,447 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-15 23:33:21,542 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-15 23:33:22,034 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-15 23:33:23,122 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-15 23:33:23,136 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-15 23:33:23,390 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:34:14,052 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-15 23:34:14,053 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-15 23:34:14,053 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-15 23:34:21,387 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-15 23:34:21,393 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-15 23:34:21,413 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations.csv
+2025-02-15 23:34:21,475 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:34:48,951 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-15 23:34:48,951 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-15 23:34:48,951 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-15 23:34:48,953 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations10.csv
+2025-02-15 23:34:49,019 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:35:17,200 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-15 23:35:17,201 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-15 23:35:17,202 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-15 23:35:17,205 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-15 23:35:17,395 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:36:07,787 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-15 23:36:07,789 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-15 23:36:07,789 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-15 23:36:07,792 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations5.csv
+2025-02-15 23:36:07,862 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-15 23:38:20,778 - logger.py - <module> - INFO - I'm working :)
+2025-02-15 23:49:54,510 - logger.py - <module> - INFO - I'm working :)
+2025-02-15 23:50:35,131 - logger.py - <module> - INFO - I'm working :)
+2025-02-16 00:21:12,313 - __init__.py - wrapper - DEBUG - matplotlib data path: C:\Users\dolma\Downloads\Cohesion-Prediction-Based-on-EEG-data-main\Cohesion-Prediction-Based-on-EEG-data-main\venv\Lib\site-packages\matplotlib\mpl-data
+2025-02-16 00:21:12,327 - __init__.py - wrapper - DEBUG - CONFIGDIR=C:\Users\dolma\.matplotlib
+2025-02-16 00:21:12,329 - __init__.py - <module> - DEBUG - interactive is False
+2025-02-16 00:21:12,329 - __init__.py - <module> - DEBUG - platform is win32
+2025-02-16 00:21:12,470 - __init__.py - wrapper - DEBUG - CACHEDIR=C:\Users\dolma\.matplotlib
+2025-02-16 00:21:12,475 - font_manager.py - _load_fontmanager - DEBUG - Using fontManager instance from C:\Users\dolma\.matplotlib\fontlist-v390.json
+2025-02-16 00:21:13,524 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 00:21:14,873 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-16 00:21:30,568 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-16 00:21:30,647 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-16 00:21:30,716 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-16 00:21:30,814 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-16 00:21:31,242 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-16 00:21:32,404 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-16 00:21:32,418 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-16 00:21:32,705 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:25:07,759 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 00:25:09,327 - visuals.py - plot_binarisation_choice - INFO - heatbinarisation plot displayed
+2025-02-16 00:27:31,050 - visuals.py - label_distribution - INFO - pie chart displayed
+2025-02-16 00:27:31,118 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations.csv
+2025-02-16 00:27:31,208 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations5.csv
+2025-02-16 00:27:31,301 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations10.csv
+2025-02-16 00:27:31,750 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations60.csv
+2025-02-16 00:27:32,978 - reshape_datasets.py - reshape_input_eeg - INFO - The reshape csv is done as data/reshaped_correlations120.csv
+2025-02-16 00:27:33,010 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-16 00:27:33,535 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:28:27,360 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-16 00:28:27,361 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-16 00:28:27,362 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-16 00:28:31,096 - visuals.py - plot_grid_search_results - INFO - grid search results displayed
+2025-02-16 00:28:31,097 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-16 00:28:31,101 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations.csv
+2025-02-16 00:28:31,150 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:28:54,134 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-16 00:28:54,136 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-16 00:28:54,136 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-16 00:28:54,139 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations10.csv
+2025-02-16 00:28:54,194 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:29:18,198 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-16 00:29:18,200 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-16 00:29:18,200 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-16 00:29:18,204 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations120.csv
+2025-02-16 00:29:18,454 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:30:02,716 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=40)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', gamma=0.1, kernel='poly',
+                     probability=True))])
+2025-02-16 00:30:02,718 - svm.py - train_svm - INFO - Best parameters: {'select__k': 40, 'svc__C': 0.1, 'svc__degree': 3, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-16 00:30:02,718 - svm.py - train_svm - INFO - Best F1 Score: 0.7567032967032967
+2025-02-16 00:30:02,721 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations5.csv
+2025-02-16 00:30:02,772 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:30:25,008 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k='all')),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, gamma=0.1,
+                     kernel='poly', probability=True))])
+2025-02-16 00:30:25,009 - svm.py - train_svm - INFO - Best parameters: {'select__k': 'all', 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'poly'}
+2025-02-16 00:30:25,010 - svm.py - train_svm - INFO - Best F1 Score: 0.7702564102564103
+2025-02-16 00:30:25,012 - svm.py - train_svm - INFO - Starting SVM training on dataset: data/reshaped_correlations60.csv
+2025-02-16 00:30:25,148 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:31:01,825 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=10,
+                     probability=True))])
+2025-02-16 00:31:01,826 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 10, 'svc__kernel': 'rbf'}
+2025-02-16 00:31:01,826 - svm.py - train_svm - INFO - Best F1 Score: 0.7534065934065934
+2025-02-16 00:31:11,312 - visuals.py - plot_f1_scores - INFO - f1 scores displayed
+2025-02-16 00:31:11,353 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.21148773 0.17430389]
+2025-02-16 00:31:11,354 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.38579161708736276
+2025-02-16 00:31:11,752 - pca.py - pca - INFO - Explained Variance Ratio (PC1 and PC2) = [0.15528212 0.03724581]
+2025-02-16 00:31:11,753 - pca.py - pca - INFO - Cumulative Explained Variance (PC1 and PC2) = 0.19252793271525326
+2025-02-16 00:31:21,328 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-16 00:31:31,344 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-16 00:31:41,359 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-16 00:31:56,378 - visuals.py - plot_pca - INFO - pca graphs displayed
+2025-02-16 00:31:56,844 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-16 00:32:02,683 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 30!
+2025-02-16 00:32:06,401 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:32:06,402 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-16 00:32:07,399 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 22!
+2025-02-16 00:32:16,405 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:32:16,406 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-16 00:32:17,157 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-16 00:32:26,413 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:32:26,414 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-16 00:32:27,148 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-16 00:32:36,428 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:32:36,430 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-16 00:32:37,163 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-16 00:32:46,452 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:32:46,453 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.7125
+2025-02-16 00:32:46,454 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4639
+2025-02-16 00:32:46,455 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.5781
+2025-02-16 00:34:32,811 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-16 00:34:37,865 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 27!
+2025-02-16 00:34:46,692 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:34:46,693 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-16 00:34:47,928 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 29!
+2025-02-16 00:34:56,666 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:34:56,667 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-16 00:34:58,188 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 47!
+2025-02-16 00:35:06,669 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:35:06,670 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-16 00:35:16,681 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:35:16,682 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-16 00:35:26,680 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 00:35:26,681 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.4889
+2025-02-16 00:35:26,682 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.6750
+2025-02-16 00:35:26,683 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.7948
+2025-02-16 00:35:27,560 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/missing_config.ini
+2025-02-16 00:35:28,273 - cnn.py - fold_cross_validation_120dataset - ERROR - Missing [CNN] section in config file.
+2025-02-16 00:35:28,402 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 00:35:28,413 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 00:35:28,421 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-16 00:35:28,425 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-16 00:35:28,440 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-16 00:35:28,488 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-16 00:35:28,526 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-16 00:35:28,536 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-16 00:35:28,539 - svm.py - train_svm - ERROR - Error reading CSV files: [Errno 2] No such file or directory: 'test_X.csv'
+2025-02-16 00:35:28,552 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-16 00:35:28,560 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-16 00:35:28,601 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:35:42,358 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=10, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-16 00:35:42,360 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 10, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-16 00:35:42,361 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
+2025-02-16 00:35:42,369 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X2.csv
+2025-02-16 00:35:42,425 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:35:55,670 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, kernel='poly',
+                     probability=True))])
+2025-02-16 00:35:55,671 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 'scale', 'svc__kernel': 'poly'}
+2025-02-16 00:35:55,672 - svm.py - train_svm - INFO - Best F1 Score: 0.5999999999999999
+2025-02-16 00:35:55,693 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-16 00:35:55,739 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 00:36:09,901 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-16 00:36:09,902 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-16 00:36:09,902 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
