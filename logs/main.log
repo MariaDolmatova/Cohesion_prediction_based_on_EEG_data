@@ -1286,3 +1286,65 @@
                      probability=True))])
 2025-02-16 00:36:09,902 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
 2025-02-16 00:36:09,902 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
+2025-02-16 02:20:35,666 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 02:20:35,687 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 02:20:35,715 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-16 02:20:35,717 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-16 02:20:35,737 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-16 02:20:35,810 - fake_tensor.py - dump_cache_stats - INFO - FakeTensor cache stats:
+2025-02-16 02:20:35,810 - fake_tensor.py - dump_cache_stats - INFO -   cache_hits: 0
+2025-02-16 02:20:35,811 - fake_tensor.py - dump_cache_stats - INFO -   cache_misses: 0
+2025-02-16 02:21:16,258 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 1
+2025-02-16 02:21:23,274 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-16 02:21:25,787 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 02:21:25,788 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 2
+2025-02-16 02:21:27,508 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 38!
+2025-02-16 02:21:35,786 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 02:21:35,787 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 3
+2025-02-16 02:21:37,810 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 41!
+2025-02-16 02:21:38,203 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 02:21:38,204 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 4
+2025-02-16 02:21:40,227 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 21!
+2025-02-16 02:21:45,797 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 02:21:45,799 - cnn.py - fold_cross_validation_120dataset - INFO - Fold 5
+2025-02-16 02:21:47,392 - cnn.py - train_model_early_stopping - INFO -   >> Early stopping at epoch 31!
+2025-02-16 02:21:55,808 - visuals.py - plot_cross_validation_results - INFO - cross-validation results displayed
+2025-02-16 02:21:55,809 - cnn.py - fold_cross_validation_120dataset - INFO - Average loss: 0.9410
+2025-02-16 02:21:55,809 - cnn.py - fold_cross_validation_120dataset - INFO - Average accuracy: 0.4833
+2025-02-16 02:21:55,810 - cnn.py - fold_cross_validation_120dataset - INFO - Average F1 score: 0.2533
+2025-02-16 02:21:56,906 - cnn.py - fold_cross_validation_120dataset - ERROR - Config file not found: config/missing_config.ini
+2025-02-16 02:21:57,920 - cnn.py - fold_cross_validation_120dataset - ERROR - Missing [CNN] section in config file.
+2025-02-16 02:21:58,137 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 02:21:58,151 - labels_preparation.py - process_labels - INFO - Labels processed
+2025-02-16 02:21:58,160 - labels_preparation.py - process_labels - ERROR - Missing required column: 'Average cohesion score'.
+2025-02-16 02:21:58,162 - labels_preparation.py - process_labels - ERROR - File format error: Input file is not a CSV.
+2025-02-16 02:21:58,174 - labels_preparation.py - process_labels - ERROR - Non-numeric values found in 'Average cohesion score' column.
+2025-02-16 02:21:58,201 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_insufficient_X.csv
+2025-02-16 02:21:58,220 - svm.py - train_svm - ERROR - Not enough samples for 5-fold cross-validation.
+2025-02-16 02:21:58,229 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-16 02:21:58,230 - svm.py - train_svm - ERROR - Error reading CSV files: [Errno 2] No such file or directory: 'test_X.csv'
+2025-02-16 02:21:58,250 - svm.py - multi_datasets - INFO - Running SVM training on multiple datasets...
+2025-02-16 02:21:58,259 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X1.csv
+2025-02-16 02:21:58,276 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 02:22:19,223 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=10, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-16 02:22:19,225 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 10, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-16 02:22:19,225 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
+2025-02-16 02:22:19,229 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X2.csv
+2025-02-16 02:22:19,278 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 02:22:34,713 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=0.1, class_weight='balanced', degree=2, kernel='poly',
+                     probability=True))])
+2025-02-16 02:22:34,715 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 'scale', 'svc__kernel': 'poly'}
+2025-02-16 02:22:34,715 - svm.py - train_svm - INFO - Best F1 Score: 0.5999999999999999
+2025-02-16 02:22:34,768 - svm.py - train_svm - INFO - Starting SVM training on dataset: test_X.csv
+2025-02-16 02:22:34,791 - svm.py - train_svm - INFO - Starting hyperparameter tuning with GridSearchCV...
+2025-02-16 02:22:50,150 - svm.py - train_svm - INFO - Best model: Pipeline(steps=[('scaler', StandardScaler()), ('select', SelectKBest(k=5)),
+                ('svc',
+                 SVC(C=1, class_weight='balanced', degree=2, gamma=0.1,
+                     probability=True))])
+2025-02-16 02:22:50,152 - svm.py - train_svm - INFO - Best parameters: {'select__k': 5, 'svc__C': 1, 'svc__degree': 2, 'svc__gamma': 0.1, 'svc__kernel': 'rbf'}
+2025-02-16 02:22:50,152 - svm.py - train_svm - INFO - Best F1 Score: 0.7333333333333333
