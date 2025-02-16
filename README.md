@@ -74,6 +74,8 @@ This project aims to classify dyads as high or low cohesive based on EEG synchro
 
 ---
 
+## Project information
+
 ### Project Data
 - All data files should be stored in the `data/` directory
 
