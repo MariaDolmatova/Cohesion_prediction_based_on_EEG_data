@@ -107,7 +107,7 @@ python main.py
 ``` 
 
 ### Project structure
-
+```bash
 ├── Project report.pdf
 ├── README.md
 ├── Subjective_cohesion_by_EEG.code-workspace
@@ -198,3 +198,4 @@ python main.py
     ├── test_cnn.py
     ├── test_labels_preparation.py
     └── test_svm.py
+``` 
