@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+			"ms-python.vscode-pylance",
+			"donjayamanne.python-environment-manager",
+			"kaih2o.python-resource-monitor",
+			//"charliermarsh.ruff",
+			"ms-toolsai.jupyter",
+		],
+	},
+	"settings": {
+		"markdown.copyFiles.destination": {
+			"": ""
+		},
+		"files.exclude": {
+			"**/__pycache__": true,
+			"**/.mypy_cache": true,
+			"**/.pytest_cache": true,
+			"**/my_project.egg-info": true,
+			"**/.ruff_cache": true,
+			"mypy_cache": true,
+			"pytest_cache": true,
+			"ruff_cache": true,
+			".tox": true,
+			"archive": true,
+			"**/egg-info": true,
+		},
+		"mypy.runUsingActiveInterpreter": true,
+		"python.defaultInterpreterPath": "./venv/Scripts/python",
+		"python.terminal.activateEnvironment": true,
+		//"editor.defaultFormatter": "charliermarsh.ruff",
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "always",
+			//"source.fixAll.ruff": "always",
+			//"source.fixAll": "always"
+		},
+	}
+}
