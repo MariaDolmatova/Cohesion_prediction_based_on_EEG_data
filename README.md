@@ -110,32 +110,10 @@ python main.py
 
 ### Project structure
 ```bash
+├── .gitignore
 ├── Project report.pdf
 ├── README.md
 ├── Subjective_cohesion_by_EEG.code-workspace
-├── __pycache__
-│   └── main.cpython-313.pyc
-├── build
-│   └── lib
-│       ├── __init__.py
-│       ├── models
-│       │   ├── __pycache__
-│       │   │   └── cnn.cpython-313.pyc
-│       │   ├── cnn.py
-│       │   ├── pca.py
-│       │   └── svm.py
-│       └── utils
-│           ├── __init__.py
-│           ├── __pycache__
-│           │   ├── __init__.cpython-313.pyc
-│           │   ├── logger.cpython-313.pyc
-│           │   ├── random_seed.cpython-313.pyc
-│           │   └── visuals.cpython-313.pyc
-│           ├── labels_preparation.py
-│           ├── logger.py
-│           ├── random_seed.py
-│           ├── reshape_datasets.py
-│           └── visuals.py
 ├── config
 │   ├── cnn_config.ini
 │   └── svm_config.ini
@@ -152,8 +130,6 @@ python main.py
 │   ├── reshaped_correlations120.csv
 │   ├── reshaped_correlations5.csv
 │   └── reshaped_correlations60.csv
-├── logs
-│   └── main.log
 ├── main.py
 ├── matlab
 │   ├── eeg_prep_without_win.m
@@ -161,42 +137,18 @@ python main.py
 ├── pyproject.toml
 ├── src
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   └── __init__.cpython-313.pyc
-│   ├── eeg_cohesion.egg-info
-│   │   ├── PKG-INFO
-│   │   ├── SOURCES.txt
-│   │   ├── dependency_links.txt
-│   │   ├── requires.txt
-│   │   └── top_level.txt
 │   ├── models
-│   │   ├── __pycache__
-│   │   │   ├── cnn.cpython-313.pyc
-│   │   │   ├── pca.cpython-313.pyc
-│   │   │   └── svm.cpython-313.pyc
 │   │   ├── cnn.py
 │   │   ├── pca.py
 │   │   └── svm.py
 │   └── utils
 │       ├── __init__.py
-│       ├── __pycache__
-│       │   ├── __init__.cpython-313.pyc
-│       │   ├── labels_preparation.cpython-313.pyc
-│       │   ├── logger.cpython-313.pyc
-│       │   ├── random_seed.cpython-313.pyc
-│       │   ├── reshape_datasets.cpython-313.pyc
-│       │   └── visuals.cpython-313.pyc
 │       ├── labels_preparation.py
 │       ├── logger.py
 │       ├── random_seed.py
 │       ├── reshape_datasets.py
 │       └── visuals.py
-├── test_missing_col.csv
 └── tests
-    ├── __pycache__
-    │   ├── test_cnn.cpython-313.pyc
-    │   ├── test_labels_preparation.cpython-313.pyc
-    │   └── test_svm.cpython-313.pyc
     ├── test_cnn.py
     ├── test_labels_preparation.py
     └── test_svm.py
